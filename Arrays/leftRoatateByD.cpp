@@ -15,9 +15,11 @@ do arr[i] = temp[(i-(n-d))]
 and arr becomes rotated by d places
 */
 
-// Better:
+// Optimal:
 /*
-
+    Reverse(arr, arr+d)
+    Reverse(arr+d, arr+n)
+    Reverse(arr, arr+n)
 */
 int main()
 {
