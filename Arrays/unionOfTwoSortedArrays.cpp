@@ -21,6 +21,10 @@ Keep j on arr2
 
 Compare both the indexes with and take non-duplicate(unique)
 
+
+TC: O(n1+n2)
+SC: O(n1+n2) [Returning the answer]
+
 */
 class Solution {
 	public:
