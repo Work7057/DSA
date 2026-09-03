@@ -1,0 +1,1 @@
+{"name":"Local: building_roads","url":"/media/muon/New Volume7/DSA/Graphs/building_roads.cpp","tests":[{"id":1788286791866,"input":"4 2\n1 2\n3 4","output":"1\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/muon/New Volume7/DSA/Graphs/building_roads.cpp","group":"local","local":true}
